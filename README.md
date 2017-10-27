@@ -138,7 +138,7 @@ function fancyAlert(arg) {
 4. นำไข่ไปทอด
 5. เอาไปรับประทาน
     
-![รูปภาพ](https://www.facebook.com/photo.php?fbid=293800077763905&set=a.122904398186808.1073741826.100014017456003&type=3&theater)
+![รูปภาพ](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/21192074_293800077763905_5280494460649446903_n.jpg?oh=c5a87a47d57888df8578ecb7668c07da&oe=5A7E9D2B)
 
 **$$$$3**
 
